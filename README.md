@@ -15,7 +15,7 @@ Notes & resources for building custom keyboards
 
 
 ![example](./assets/cutout.png)
-## Pole to Pole
+## Stem-to-Stem
 | **UNIT** | **1.00** | **1.25** | **1.50** | **1.75** | **2.00** | 
 |:-----|:----:|:----:|:----:|:----:|:----:|
 |**1.00** | 19.00 | 21.50 | 23.75 | 26.25 | 28.50 |   
