@@ -2,6 +2,18 @@
 Notes & resources for building custom keyboards
 *all measurements in milimeter (mm)*
 
+## Table of Contents
+
+layout
+wiring
+plate
+
+![keycaps](#keycap-widths)
+![Plate](#plate-cutouts)
+![link]()
+![link]()
+
+
 ![example](./assets/cutout.png)
 ## Keycap widths
 | UNIT |**1.00**|**1.25**|**1.50**|**1.75**|**2.00*|**2.25**|**2.75**|**3.00**|**6.00**|**6.25**|
