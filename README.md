@@ -48,7 +48,7 @@ plate
 
 ## Plate Cutout Spacing (mm)
 *edge to edge*
-![example](./assets/cutout.png)
+![example](./layout design.png)
 
 | **UNIT** | **1.00** | **1.25** | **1.50** | **1.75** | **2.00** | **2.25** | **2.75** |
 |:-----|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
